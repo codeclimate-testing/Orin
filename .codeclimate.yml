@@ -4,6 +4,7 @@ engines:
     enabled: true
   duplication:
     enabled: true
+    channel: quality-model-beta
     config:
       languages:
       - java
