@@ -9,5 +9,5 @@ engines:
       - java
 ratings:
   paths:
-  - **.java
+  - "**.java"
 exclude_paths: []
