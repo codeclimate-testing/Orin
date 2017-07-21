@@ -1,0 +1,13 @@
+---
+engines:
+  fixme:
+    enabled: true
+  duplication:
+    enabled: true
+    config:
+      languages:
+      - java
+ratings:
+  paths:
+  - **.java
+exclude_paths: []
